@@ -1,0 +1,21 @@
+{
+  "name": "videojs-embed",
+  "version": "0.1.0",
+  "homepage": "https://github.com/guardian/videojs-embed",
+  "authors": [
+    "Patrick Hamann <patrick.hamann@guardian.co.uk>"
+  ],
+  "description": "A plugin for Video.js that adds a control bar button to toggle an embed code overlay.",
+  "main": "videojs.embed.js",
+  "keywords": [
+    "videojs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
