@@ -1,7 +1,7 @@
 ## [VideoJS](http://www.videojs.com) Embed Plugin
 Displays an Embed button in the control bar which triggers an overlay showing the embed code for a media source.
 
-![video player](https://raw.githubusercontent.com/kim-company/videojs-chromecast/master/screenshots/chromecast-player.jpg)
+![video player](http://cl.ly/image/1p3Q3Z1O0I1U/Google%20Chrome%2029.jpg)
 
 ## Getting started
 1. Clone, fork or download via [Bower](http://bower.io/)
