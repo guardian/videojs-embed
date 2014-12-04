@@ -15,7 +15,7 @@ videojs("my_player_id", {
   	plugins: {
         embed: {
             embedable: true,
-            location: '//embed.theguardian.com/embed/video/my-video
+            location: '//embed.theguardian.com/embed/video/my-video'
         }
     }
 });
