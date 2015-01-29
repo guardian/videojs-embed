@@ -14,7 +14,7 @@ Displays an Embed button in the control bar which triggers an overlay showing th
 videojs("my_player_id", {
   	plugins: {
         embed: {
-            embedable: true,
+            embeddable: true,
             location: '//embed.theguardian.com/embed/video/my-video'
         }
     }
