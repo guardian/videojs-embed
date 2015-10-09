@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/guardian/videojs-embed/issues"
   },
-  "homepage": "https://github.com/guardian/videojs-embed"
+  "homepage": "https://github.com/guardian/videojs-embed",
+   "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-umd": "^2.3.3",
+    "load-grunt-tasks": "^3.1.0"
+  }
 }
