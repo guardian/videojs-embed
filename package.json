@@ -2,7 +2,7 @@
   "name": "videojs-embed",
   "version": "0.3.3",
   "description": "A plugin for Video.js that adds a control bar button to toggle an embed code overlay.",
-  "main": "videojs.embed.js",
+  "main": "dist/videojs.embed.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
